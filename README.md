@@ -22,24 +22,25 @@ Me chamo **Ingrid**, e estou cursando o 8º semestre de Engenharia de Computaç�
 <div align="center">
   <p><strong>🎨 Front-End & Design 🖌️</strong></p>
   <!-- Badges em formato de pílula (redondinhas) e rosa pastel -->
-   <!--<img src="https://img.shields.io/badge/JavaScript-FF9EBB?style=flat&logo=javascript&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/JavaScript-FF9EBB?style=flat&logo=javascript&logoColor=white" />-->
   <img src="https://img.shields.io/badge/HTML5-FF9EBB?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-FF9EBB?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-FF9EBB?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-FF9EBB?style=flat&logo=figma&logoColor=white" />-->
+  <!--<img src="https://img.shields.io/badge/React-FF9EBB?style=flat&logo=react&logoColor=white" />-->
+  <!--<img src="https://img.shields.io/badge/Figma-FF9EBB?style=flat&logo=figma&logoColor=white" />-->
   
   <br><br>
   
   <p><strong>☁️ Back-End & Banco de Dados ⚙️</strong></p>
- <!-- <img src="https://img.shields.io/badge/Node.js-FF9EBB?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-FF9EBB?style=flat&logo=postgresql&logoColor=white" />-->
+ <img src="https://img.shields.io/badge/Python-FF9EBB?style=flat&logo=python&logoColor=white" />
+ <img src="https://img.shields.io/badge/PostgreSQL-FF9EBB?style=flat&logo=postgresql&logoColor=white" />
+  
 
   <br><br>
   
   <p><strong>🚀 Ferramentas & Soft Skills</strong></p>
- <!-- <img src="https://img.shields.io/badge/Git-FF9EBB?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FF9EBB?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-FF9EBB?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-FF9EBB?style=flat&logo=visualstudiocode&logoColor=white" />-->
+  <!--<img src="https://img.shields.io/badge/VS_Code-FF9EBB?style=flat&logo=visualstudiocode&logoColor=white" />-->
 </div>
 
 <h3 align="center"> ⋆ ˚｡⋆୨୧˚ ˚୨୧⋆｡˚ ⋆ </h3>
