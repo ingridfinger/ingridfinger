@@ -52,9 +52,6 @@ Me chamo **Ingrid**, e estou cursando o 8º semestre de Engenharia de Computaç�
   <a href="https://www.linkedin.com/in/ingridfinger/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF9EBB?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/inging.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF9EBB?style=flat&logo=instagram&logoColor=white"></a>
   <a href="mailto:ingridfinger.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-FF9EBB?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="[#](https://www.linkedin.com/in/ingridfinger/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF9EBB?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="[#](https://www.instagram.com/inging.dev)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF9EBB?style=flat&logo=instagram&logoColor=white"></a>
-  <a href="mailto:ingridfinger.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-FF9EBB?style=flat&logo=gmail&logoColor=white"></a>
 </div>
 
 <h3 align="center"> ⋆ ˚｡⋆୨୧˚ ˚୨୧⋆｡˚ ⋆ </h3>
