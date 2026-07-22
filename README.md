@@ -48,6 +48,10 @@ Me chamo **Ingrid**, e estou cursando o 8º semestre de Engenharia de Computaç�
 <h2 align="center"> 💖 Minhas Redes: </h2>
 
 <div align="center">
+  <!-- O link do seu perfil vai no href e o link da badge continua no src -->
+  <a href="https://www.linkedin.com/in/ingridfinger/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF9EBB?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/inging.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF9EBB?style=flat&logo=instagram&logoColor=white"></a>
+  <a href="mailto:ingridfinger.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-FF9EBB?style=flat&logo=gmail&logoColor=white"></a>
   <a href="[#](https://www.linkedin.com/in/ingridfinger/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF9EBB?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="[#](https://www.instagram.com/inging.dev)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FF9EBB?style=flat&logo=instagram&logoColor=white"></a>
   <a href="mailto:ingridfinger.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-FF9EBB?style=flat&logo=gmail&logoColor=white"></a>
