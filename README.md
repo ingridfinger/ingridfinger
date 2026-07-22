@@ -59,7 +59,6 @@ Me chamo **Ingrid**, e estou cursando o 8º semestre de Engenharia de Computaç�
 <h2 align="center"> 📊 GitHub Stats: </h2>
 
 <div align="center">
-  <!-- Esse bloco <picture> detecta automaticamente se você está usando o tema claro ou escuro! -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ingridfinger&show_icons=true&theme=dracula&hide_border=false&border_color=FF9EBB&title_color=FF9EBB&icon_color=FF9EBB&bg_color=0d1117">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=ingridfinger&show_icons=true&theme=default&hide_border=false&border_color=FF9EBB&title_color=FF9EBB&icon_color=FF9EBB&bg_color=ffffff">
