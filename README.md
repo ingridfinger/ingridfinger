@@ -12,12 +12,12 @@ Oi! Eu sou a Ingrid, estudante de Engenharia de Computação na UCDB e apaixonad
 
 Atualmente, atuo na área de inteligência e monitoramento de dados, trabalhando com informações relacionadas a programas sociais. Essa experiência tem ampliado meu interesse por desenvolvimento de sistemas, análise de dados e soluções que facilitem o acesso à informação.
 
-Nos meus estudos, estou aprofundando meus conhecimentos em Python, Git, GitHub e Docker, além de explorar bancos de dados e ferramentas de visualização de dados.
+Nos meus estudos, estou aprofundando meus conhecimentos em Python, Git, GitHub, Docker e Kubernetes, além de explorar bancos de dados e ferramentas de visualização de dados.
 
 Gosto de aprender na prática, desenvolver projetos e transformar cada novo conhecimento em algo que possa ser aplicado no mundo real. 🌷
 
 - 🎓 **Formação:** Engenharia de Computação - UCDB (em andamento)
-- 🎯 **Foco Atual:** Python, Git, GitHub, Docker e ferramentas de dados.
+- 🎯 **Foco Atual:** Python, Kubernetes, Git, GitHub, Docker.
 - 📊 **Interesses:** Análise de dados, desenvolvimento de sistemas e bancos de dados.
 - 🔐 Interesse futuro: Cibersegurança e Segurança da Informação.
 - 🗣️ **Idiomas:** Português (Nativo) | Inglês (Avançado)
@@ -50,6 +50,7 @@ Gosto de aprender na prática, desenvolver projetos e transformar cada novo conh
   <img src="https://img.shields.io/badge/Git-FF9EBB?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-FF9EBB?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-FF9EBB?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-FF9EBB?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/VS_Code-FF9EBB?style=flat&logo=visualstudiocode&logoColor=white" />
 </div>
 
@@ -62,6 +63,10 @@ Gosto de aprender na prática, desenvolver projetos e transformar cada novo conh
 
   <a href="https://github.com/ingridfinger/estudos-docker">
     <img src="https://img.shields.io/badge/Estudos_de_Docker-FF9EBB?style=for-the-badge&logo=docker&logoColor=white" alt="Estudos de Docker" />
+  </a>
+
+  <a href="https://github.com/ingridfinger/estudos-kubernetes">
+    <img src="https://img.shields.io/badge/Estudos_de_Kubernetes-FF9EBB?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Estudos de Kubernetes" />
   </a>
 
   <a href="https://github.com/ingridfinger/estudos-python">
